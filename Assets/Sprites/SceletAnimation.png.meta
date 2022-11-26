@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 916083b108308294ba5c2f3e60ec89b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scelet_run_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 248
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57307a3a5b98bb6418e5310503bf8f44
+      internalID: -358285247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_attack_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 246
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7611084, y: 0.5327619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739fa070ef5cb0941997675e9ef5fced
+      internalID: 1246815305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_idle_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 247
+        width: 36
+        height: 51
+      alignment: 9
+      pivot: {x: 0.605562, y: 0.48645318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cff24a9c08fa6438de4e8d9861c43b
+      internalID: 1175003140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_idle_0
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 246
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.65944964, y: 0.4729052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02346724b28078f489b07e03f4218b51
+      internalID: -1051734556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_run_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 173
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd3801bf32c16147a41fd3ec97b4975
+      internalID: 383149073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceletAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 172
+        width: 73
+        height: 41
+      alignment: 9
+      pivot: {x: 0.8735893, y: 0.5567199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb5cbe245c7f3499c5ec52705ae3a9
+      internalID: -1576268646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_attack_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 173
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.65059096, y: 0.47967887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1470ee0bbfb2654289be12d146f606a
+      internalID: -372333857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_attack_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 172
+        width: 77
+        height: 41
+      alignment: 9
+      pivot: {x: 0.83230233, y: 0.5832281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f399e1755742b140bce8c250566ce50
+      internalID: -133311152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_run_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 109
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eccc7fd6a87ec45b13d50567546092
+      internalID: -607332882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceletAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 108
+        width: 74
+        height: 41
+      alignment: 9
+      pivot: {x: 0.84499544, y: 0.5249072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63af034b67966c4d806a106b36d6778
+      internalID: -1770253136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_attack_0
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 109
+        width: 36
+        height: 51
+      alignment: 9
+      pivot: {x: 0.586369, y: 0.48645258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de417e0966a96ca42a5dde016a2437f6
+      internalID: -895309525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_attack_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.82029766, y: 0.5893886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d22f46d1058f64285acf13daead248
+      internalID: 927151392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_run_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f4dcf50f98094dbc45ac9c6b0c743
+      internalID: -594474804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceletAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2d499aa707dc9459cbf08a29ad5f5c
+      internalID: -598177569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SceletAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 35
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7a7fb97159b94fa9b472ee2abe4a9
+      internalID: 121080736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scelet_attack_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 34
+        width: 73
+        height: 41
+      alignment: 9
+      pivot: {x: 0.8602926, y: 0.5788725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9613f22efed6545967419a1a8dfd13
+      internalID: -815623136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      scelet_run_1: -358285247
+      scelet_attack_0: -895309525
+      scelet_attack_3: 927151392
+      scelet_idle_0: -1051734556
+      scelet_attack_4: -815623136
+      SceletAnimation_5: -1576268646
+      SceletAnimation_9: -1770253136
+      SceletAnimation_13: -598177569
+      scelet_attack_2: 1246815305
+      SceletAnimation_14: 121080736
+      scelet_run_0: 383149073
+      scelet_run_3: -607332882
+      scelet_idle_1: 1175003140
+      scelet_attack_5: -133311152
+      scelet_run_2: -594474804
+      scelet_attack_1: -372333857
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
